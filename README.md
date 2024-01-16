@@ -72,13 +72,18 @@
 
 </p>
 
-<p><img align="left"
+<p>
+  <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mustakahmedkafy&show_icons=true&locale=en&layout=compact"
-    alt="mustakahmedkafy" /></p>
+    alt="mustakahmedkafy"/>
+</p>
 
-<p>&nbsp;<img align="center"
+<p>&nbsp;
+  <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=mustakahmedkafy&show_icons=true&locale=en"
-    alt="mustakahmedkafy" /></p>
+    alt="mustakahmedkafy" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustakahmedkafy&"
-    alt="mustakahmedkafy" /></p>
+    alt="mustakahmedkafy" />
+</p>
