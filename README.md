@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustak Ahmed Kafy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="(https://mustakahmedkafy.github.io/img/programmer.gif)"
+<img src="[https://mustakahmedkafy.github.io/img/programmer.gif]"
   align="right" alt="Coding" width="400">
 
 <p align="left"> <img
