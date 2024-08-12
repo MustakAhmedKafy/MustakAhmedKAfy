@@ -12,7 +12,7 @@
       src="https://img.shields.io/twitter/follow/mustak_kafy?logo=twitter&style=for-the-badge" alt="mustak_kafy" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://www.mustakkafy.com/](https://www.mustakkafy.com/)
+- 👨‍💻 All of my projects are available at [https://mustakkafy.vercel.app/](https://mustakkafy.vercel.app/)
 
 - 📫 How to reach me **ahmedmusta99@gmail.com**
 
